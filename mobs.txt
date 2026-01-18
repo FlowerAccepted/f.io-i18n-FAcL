@@ -27,7 +27,7 @@ Mobs/ant_queen/Description=You must have done something really bad if she's chas
 Mobs/ant_hole/Name=Ant Hole
 Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
 
-Mobs/beetle/Name=Beetle
+Mobs/beetle/Name=Hungry Died Ghost
 Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
 
 Mobs/hornet/Name=Hornet
@@ -40,31 +40,31 @@ Mobs/centipede/Description=It's just there doing its thing.
 Mobs/centipede_body/Name=Centipede
 Mobs/centipede_body/Description=It's just there doing its thing.
 
-Mobs/centipede_evil/Name=Centipede
+Mobs/centipede_evil/Name=Centipede (Evil)
 Mobs/centipede_evil/Description=This one loves flowers.
 
-Mobs/centipede_evil_body/Name=Centipede
+Mobs/centipede_evil_body/Name=Centipede (Evil)
 Mobs/centipede_evil_body/Description=This one loves flowers.
 
-Mobs/centipede_desert/Name=Centipede
+Mobs/centipede_desert/Name=Centipede (Desert)
 Mobs/centipede_desert/Description=Gotta go fast.
 
-Mobs/centipede_desert_body/Name=Centipede
+Mobs/centipede_desert_body/Name=Centipede (Desert)
 Mobs/centipede_desert_body/Description=Gotta go fast.
 
-Mobs/square/Name=Square
+Mobs/square/Name=S=a²
 Mobs/square/Description=This shape... it looks familiar...
 
-Mobs/ladybug_dark/Name=Ladybug
+Mobs/ladybug_dark/Name=Ladybug (Dark)
 Mobs/ladybug_dark/Description=Cute and harmless... if left unprovoked.
 
-Mobs/ladybug_shiny/Name=Ladybug
+Mobs/ladybug_shiny/Name=Ladybug (SHINYYYYY)
 Mobs/ladybug_shiny/Description=Shiny, cute and mostly harmless.
 
 Mobs/spider/Name=Spider
 Mobs/spider/Description=Spooky.
 
-Mobs/scorpion/Name=Scorpion
+Mobs/scorpion/Name=Scorpio
 Mobs/scorpion/Description=IT STINGS!
 
 Mobs/fire_ant_soldier/Name=Soldier Fire Ant
@@ -85,14 +85,14 @@ Mobs/bumble_bee/Description=GOTTA RUN.
 Mobs/shell/Name=Shell
 Mobs/shell/Description=Not an advertisement.
 
-Mobs/starfish/Name=Starfish
-Mobs/starfish/Description=His name is Patrick.
+Mobs/starfish/Name=StFU Fish
+Mobs/starfish/Description=His name is Patrick.<n/>Shut the f*** up if u want to alive
 
 Mobs/crab/Name=Crab
 Mobs/crab/Description=Mr. Crab.
 
-Mobs/jellyfish/Name=Jellyfish
-Mobs/jellyfish/Description=Makes the most delicious jam.
+Mobs/jellyfish/Name=Ava's Fish
+Mobs/jellyfish/Description=Makes the most delicious jam.<n/>Huh, don't speak on class which can make teacher ENGRYYYY.
 Mobs/jellyfish/Spawn=You hear lightning strikes coming from a far distance...
 
 Mobs/digger/Name=Digger
@@ -131,7 +131,7 @@ Mobs/fly/Description=Hzzzzzzzzzzzz.
 Mobs/leafbug/Name=Leafbug
 Mobs/leafbug/Description=It's not a leaf, but it is a bug.
 
-Mobs/mantis/Name=Mantis
+Mobs/mantis/Name=Mantred
 Mobs/mantis/Description=You better pray you don't become dinner.
 
 Mobs/termite_baby/Name=Baby Termite
@@ -155,7 +155,7 @@ Mobs/termite_egg/Description=Not yet a termite but perhaps soon.
 Mobs/bush/Name=Bush
 Mobs/bush/Description=Don't misunderestimate me.
 
-Mobs/roach/Name=Roach
+Mobs/roach/Name=Cockoach
 Mobs/roach/Description=Gotta go FAST... until they get tired.
 
 Mobs/moth/Name=Moth
@@ -165,31 +165,31 @@ Mobs/firefly/Name=Firefly
 Mobs/firefly/Description=Oooooh shiny.
 Mobs/firefly/Spawn=There's a bright light in the horizon...
 
-Mobs/beetle_hel/Name=Beetle
+Mobs/beetle_hel/Name=Hungry Died Ghost (Hel)
 Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
-Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/beetle_hel/Spawn=You sense ominous vibrations that eats flowers coming from a different realm...
 
-Mobs/wasp/Name=Wasp
+Mobs/wasp/Name=Sharp Died Ghost
 Mobs/wasp/Description=They are ANGRY.
 
 Mobs/dummy/Name=Target Dummy
 Mobs/dummy/Description=How do you have this in your gallery?
 
-Mobs/spider_hel/Name=Spider
+Mobs/spider_hel/Name=Spider (Hel)
 Mobs/spider_hel/Description=Scourge that spawns in the other plane.
-Mobs/spider_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/spider_hel/Spawn=You sense ominous vibrations coming from a different realm... with a spooky web...
 
-Mobs/centipede_hel/Name=Centipede
+Mobs/centipede_hel/Name=Centipede (Hel)
 Mobs/centipede_hel/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/centipede_hel/Spawn=You sense ominous vibrations coming from a different realm... with long bodies...
 
-Mobs/centipede_hel_body/Name=Centipede
+Mobs/centipede_hel_body/Name=Centipede (Hel)
 Mobs/centipede_hel_body/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a different realm... with long bodies...
 
-Mobs/wasp_hel/Name=Wasp
+Mobs/wasp_hel/Name=Sharp Died Ghost (Hel)
 Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
-Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm... with sharp missiles...
 
 Mobs/trader/Name=Trader
 Mobs/trader/Description= 
@@ -199,36 +199,37 @@ Mobs/gambler/Description=This can happen to YOU.
 Mobs/gambler/Spawn=You hear someone whisper faintly... "just... one more game..."
 
 Mobs/oracle/Name=Oracle
-Mobs/oracle/Description= 
+Mobs/oracle/Description=Java
 
-Mobs/firefly_magic/Name=Firefly
+Mobs/firefly_magic/Name=Firefly (Magic)
 Mobs/firefly_magic/Description=There's something magical about this one.
+Mobs/firefly_magic/Spawn=There's a bright blue light in the horizon...
 
 Mobs/titan/Name=Titan
 Mobs/titan/Description= 
 
-Mobs/beetle_nazar/Name=Beetle
+Mobs/beetle_nazar/Name=Hungry Died Ghost (Nazar)
 Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
 
-Mobs/worm/Name=Worm
+Mobs/worm/Name=Old Died Ghost
 Mobs/worm/Description=It's supposed to eat dirt but this one's eating flowers.
 
-Mobs/worm_guts/Name=Worm guts
-Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the police.
+Mobs/worm_guts/Name=Gost guts
+Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the police. But how Ghosts have guts?
 
 Mobs/mecha_flower/Name=Mecha Flower
 Mobs/mecha_flower/Description=Someone has been making these mechanical flowers... What could this mean?
 
-Mobs/wasp_mecha/Name=Wasp
+Mobs/wasp_mecha/Name=Sharp Died Ghost (Mecha)
 Mobs/wasp_mecha/Description=They're MECHA ANGRY.
 
-Mobs/spider_mecha/Name=Spider
+Mobs/spider_mecha/Name=Spider (Mecha)
 Mobs/spider_mecha/Description=Mecha Spooky.
 
 Mobs/leafbug_shiny/Name=Leafbug
 Mobs/leafbug_shiny/Description=This one has a special color to it...
 
-Mobs/crab_mecha/Name=Crab
+Mobs/crab_mecha/Name=Crab(Mecha)
 Mobs/crab_mecha/Description=Dr. Crab.
 
 Mobs/assembler/Name=Assembler
@@ -237,10 +238,10 @@ Mobs/assembler/Description=
 Mobs/barrel/Name=Barrel
 Mobs/barrel/Description=Under no circumstances let this thing spill.<n/>We cannot risk another mutant insect this month.
 
-Mobs/beetle_mummy/Name=Beetle
+Mobs/beetle_mummy/Name=Hungry Died Ghost (Egypt)
 Mobs/beetle_mummy/Description=This one seems like it shouldn't be alive...
 
-Mobs/beetle_pharaoh/Name=Beetle
+Mobs/beetle_pharaoh/Name=Hungry Died Ghost (Pharaoh)
 Mobs/beetle_pharaoh/Description=That thing on its head looks valuable... We should steal it.
 
 Mobs/tomb/Name=Tomb
@@ -250,13 +251,14 @@ Mobs/silverfish/Name=Silverfish
 Mobs/silverfish/Description=Those annoying little things that eat clothes.<n/>It also loves garbage.
 
 Mobs/garbage/Name=Garbage
-Mobs/garbage/Description=Someone's treasure...
+Mobs/garbage/Description=Someone's treasure...<n/>siibidi toilet's relic
 
-Mobs/ant_soldier_diver/Name=Soldier Ant
-Mobs/ant_soldier_diver/Description=How did they end up here?
+Mobs/ant_soldier_diver/Name=Soldier Ant (Diver)
+Mobs/ant_soldier_diver/Description=How did they end up here?<n/>High teched?
 
 Mobs/ghost/Name=Ghost
 Mobs/ghost/Description=A tormented soul, freeing it is the best you can do for it.
 
 Mobs/crystal/Name=Crystal
-Mobs/crystal/Description= 
+Mobs/crystal/Description=The temperature remains unchanged during heat absorption
+

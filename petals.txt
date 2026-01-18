@@ -2,16 +2,16 @@ Petals/basic/Name=Basic
 Petals/basic/FullName=Basic
 Petals/basic/Description=A nice petal, not too strong but not too weak.
 
-Petals/light/Name=Light
-Petals/light/FullName=Light
+Petals/light/Name=Quantum
+Petals/light/FullName=Quantum
 Petals/light/Description=Weaker than most petals, but recharges very quickly.
 
-Petals/rock/Name=Rock
-Petals/rock/FullName=Rock
+Petals/rock/Name=Stone
+Petals/rock/FullName=Stone
 Petals/rock/Description=Extremely durable, but takes a bit longer to recharge.
 
-Petals/square/Name=Square
-Petals/square/FullName=Square
+Petals/square/Name=S=a²
+Petals/square/FullName=S=a²
 Petals/square/Description=This shape... it looks familiar...
 
 Petals/rose/Name=Rose
@@ -58,12 +58,12 @@ Petals/dandelion/Name=Dandelion
 Petals/dandelion/FullName=Dandelion
 Petals/dandelion/Description=Its interesting properties inhibits healing effects on affected units.<n/>Affected units have their healing reduced by 20%. Stacks with itself.
 
-Petals/beetle_egg/Name=Egg
+Petals/beetle_egg/Name=Bgg
 Petals/beetle_egg/FullName=Beetle Egg
 Petals/beetle_egg/Description=Something interesting might pop out of this.
 
-Petals/antennae/Name=Antennae
-Petals/antennae/FullName=Antennae
+Petals/antennae/Name=Sharp Head
+Petals/antennae/FullName=Sharp Head
 Petals/antennae/Description=Allows your flower to sense foes farther away.
 
 Petals/heavy/Name=Heavy
@@ -74,8 +74,8 @@ Petals/yin_yang/Name=Yin Yang
 Petals/yin_yang/FullName=Yin Yang
 Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
 
-Petals/web/Name=Web
-Petals/web/FullName=Web
+Petals/web/Name=plpqdly
+Petals/web/FullName=plpqdly
 Petals/web/Description=It's really sticky.
 
 Petals/honey/Name=Honey
@@ -114,36 +114,36 @@ Petals/magnet/Name=Magnet
 Petals/magnet/FullName=Magnet
 Petals/magnet/Description=Increases drop pick up range.
 
-Petals/yggdrasil/Name=Yggdrasil
-Petals/yggdrasil/FullName=Yggdrasil
+Petals/yggdrasil/Name=Yggbrazil
+Petals/yggdrasil/FullName=Yggbrazil
 Petals/yggdrasil/Description=A dried leaf from the Yggdrasil tree.<n/>Rumored to be able to bring the fallen back to life.
 
-Petals/starfish/Name=Starfish
-Petals/starfish/FullName=Starfish
+Petals/starfish/Name=StFU
+Petals/starfish/FullName=Shut the F*** Up
 Petals/starfish/Description=Increases health regen while below 75% health.
 
 Petals/pearl/Name=Pearl
 Petals/pearl/FullName=Pearl
 Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
 
-Petals/lightning/Name=Lightning
-Petals/lightning/FullName=Lightning
+Petals/lightning/Name=mamme
+Petals/lightning/FullName=mamme
 Petals/lightning/Description=Strikes several nearby enemies.
 
-Petals/jelly/Name=Jelly
-Petals/jelly/FullName=Jelly
-Petals/jelly/Description=No one likes touching this.
+Petals/jelly/Name=Ava
+Petals/jelly/FullName=Ms. Ava's sweets
+Petals/jelly/Description=No one likes touching our English teacher... when someone drives her down...<n/>But everyone wants her reward... JELLY JAM!
 
 Petals/claw/Name=Claw
 Petals/claw/FullName=Claw
 Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
 
-Petals/shell/Name=Shell
-Petals/shell/FullName=Shell
+Petals/shell/Name=Virginia
+Petals/shell/FullName=Virginia
 Petals/shell/Description=Adds a temporary shield to yourself or allies.
 
-Petals/cutter/Name=Cutter
-Petals/cutter/FullName=Cutter
+Petals/cutter/Name=Sharper
+Petals/cutter/FullName=Sharper
 Petals/cutter/Description=A friend used to own this... now it's time for revenge.<n/>Increases body damage.
 
 Petals/dahlia/Name=Dahlia
@@ -162,9 +162,9 @@ Petals/soil/Name=Soil
 Petals/soil/FullName=Soil
 Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
 
-Petals/fang/Name=Fang
-Petals/fang/FullName=Fang
-Petals/fang/Description=Heals based on damage dealt by this petal.
+Petals/fangs/Name=hqyx
+Petals/fangs/FullName=hqyx
+Petals/fangs/Description=Heals based on damage dealt by this petal.
 
 Petals/third_eye/Name=Third Eye
 Petals/third_eye/FullName=Third Eye
@@ -181,30 +181,29 @@ Petals/stick/Description=A mysterious stick that summons the forces of the wind.
 Petals/clover/Name=Clover
 Petals/clover/FullName=Clover
 Petals/clover/Description=Increases your luck.<n/>{#UI/Luck/Help}
-
 Petals/powder/Name=Powder
 Petals/powder/FullName=Mysterious Powder
 Petals/powder/Description=Increases movement speed.<n/>Disabled if flower takes damage or if near a mob higher than a certain rarity.
 
-Petals/air/Name=Air
-Petals/air/FullName=Air
+Petals/air/Name=Chip
+Petals/air/FullName=Chip Thing
 Petals/air/Description=It's literally nothing.
 
-Petals/basil/Name=Basil
-Petals/basil/FullName=Basil
+Petals/basil/Name=Brazil
+Petals/basil/FullName=Brazil
 Petals/basil/Description=Increases all healing received.
 
 Petals/orange/Name=Orange
 Petals/orange/FullName=Orange
 Petals/orange/Description=A sweet citrus fruit.
 
-Petals/ant_egg/Name=Egg
+Petals/ant_egg/Name=Agg
 Petals/ant_egg/FullName=Ant Egg
 Petals/ant_egg/Description=Something interesting might pop out of this.
 
-Petals/poo/Name=Poo
-Petals/poo/FullName=Poo
-Petals/poo/Description=Makes mobs less likely to want to attack you.
+Petals/poo/Name=Pehiley
+Petals/poo/FullName=Pehiley
+Petals/poo/Description=Makes mobs less likely to want to attack you. Kill this one who disagree that Taiwan is a part of China!
 
 Petals/relic/Name=Relic
 Petals/relic/FullName=Mysterious Relic
@@ -218,8 +217,8 @@ Petals/bulb/Name=Bulb
 Petals/bulb/FullName=Light Bulb
 Petals/bulb/Description=A shiny lightbulb. Draws aggro from mobs.
 
-Petals/cotton/Name=Cotton
-Petals/cotton/FullName=Cotton
+Petals/cotton/Name=Work
+Petals/cotton/FullName=Go Work
 Petals/cotton/Description=Absorbs damage taken by the flower.
 
 Petals/carrot/Name=Carrot
@@ -238,8 +237,8 @@ Petals/tomato/Name=Tomato
 Petals/tomato/FullName=Tomato
 Petals/tomato/Description=Gets stronger over time.
 
-Petals/mark/Name=Mark
-Petals/mark/FullName=Dark Mark
+Petals/mark/Name=CS
+Petals/mark/FullName=Dark Craft_Super
 Petals/mark/Description=A dark mark that binds itself to a fallen soul.
 
 Petals/rubber/Name=Rubber
@@ -250,8 +249,8 @@ Petals/blood_stinger/Name=Stinger
 Petals/blood_stinger/FullName=Blood Stinger
 Petals/blood_stinger/Description=It really hurts, but it's very fragile.<n/>Deals damage to self when spawned.
 
-Petals/bur/Name=Bur
-Petals/bur/FullName=Bur
+Petals/bur/Name=xpg007
+Petals/bur/FullName=xpg007
 Petals/bur/Description=Decreases armor of affected unit. Does not stack with itself.
 
 Petals/root/Name=Root
@@ -310,8 +309,8 @@ Petals/privet/Name=Privet
 Petals/privet/FullName=Privet Berry
 Petals/privet/Description=Deals extra {#Attribute/PoisonNoColon} damage based on the existing {#Attribute/PoisonNoColon} damage per second.
 
-Petals/glass/Name=Glass
-Petals/glass/FullName=Glass
+Petals/glass/Name=lxc129
+Petals/glass/FullName=lxc129
 Petals/glass/Description=Phases through enemies.<n/>Cannot damage enemies more often than a certain interval.
 
 Petals/corruption/Name=Corruption
@@ -322,12 +321,12 @@ Petals/orb/Name=Orb
 Petals/orb/FullName=Mana Orb
 Petals/orb/Description=Creates mana.
 
-Petals/blueberries/Name=Blueberries
-Petals/blueberries/FullName=Blueberries
+Petals/blueberries/Name=Strongberries
+Petals/blueberries/FullName=Strongberries
 Petals/blueberries/Description=It goes poof. Now with the extra secret ingredient: lightning.
 
-Petals/magic_cotton/Name=Cotton
-Petals/magic_cotton/FullName=Magic Cotton
+Petals/magic_cotton/Name=Work
+Petals/magic_cotton/FullName=Magic Go Work
 Petals/magic_cotton/Description=Absorbs damage taken by the flower.
 
 Petals/magic_stinger/Name=Stinger
@@ -379,15 +378,15 @@ Petals/mjolnir/default/FullName=Fragment
 Petals/mjolnir/default/Description=Perhaps this could be used to forge something great?
 
 Petals/mjolnir/eternal/Name=Mjölnir
-Petals/mjolnir/eternal/FullName=Mjölnir
-Petals/mjolnir/eternal/Description=Only the most powerful hammer in the universe.
+Petals/mjolnir/eternal/FullName=Eternal Mjölnir
+Petals/mjolnir/eternal/Description=One of the most powerful hammer in the universe.
 
 Petals/mjolnir/unique/Name=Mjölnir
 Petals/mjolnir/unique/FullName=Mjölnir
 Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
 
-Petals/mecha_missile/Name=Missile
-Petals/mecha_missile/FullName=Mecha Missile
+Petals/mecha_missile/Name=Rocket
+Petals/mecha_missile/FullName=Rocket
 Petals/mecha_missile/Description=Locked on.
 
 Petals/wax/Name=Wax
@@ -406,8 +405,8 @@ Petals/monstera/Name=Monstera
 Petals/monstera/FullName=Monstera
 Petals/monstera/Description=Heals flowers around it.<n/>Effect fades out with distance to petal.
 
-Petals/mecha_antennae/Name=Antennae
-Petals/mecha_antennae/FullName=Mecha Antennae
+Petals/mecha_antennae/Name=IR
+Petals/mecha_antennae/FullName=Infrared Remote
 Petals/mecha_antennae/Description=Allows your flower to sense foes farther away.<n/>And it has a blinking red light on top.
 
 Petals/laser/Name=Laser
@@ -430,8 +429,8 @@ Petals/totem/Name=Totem
 Petals/totem/FullName=Totem
 Petals/totem/Description=Grants health regen for a certain duration after killing a mob.
 
-Petals/triangle/Name=Triangle
-Petals/triangle/FullName=Triangle
+Petals/triangle/Name=1217king
+Petals/triangle/FullName=1217king
 Petals/triangle/Description=Each copy of this petal equipped grants additional damage to it.
 
 Petals/electric_web/Name=Web
@@ -440,7 +439,7 @@ Petals/electric_web/Description=It's a little less sticky, but a bit more shocki
 
 Petals/sacrifice/Name=Sacrifice
 Petals/sacrifice/FullName=Blood Sacrifice
-Petals/sacrifice/Description=On death, summons a mob to fight again.<n/>Mob type depends on where the sacrifice happens.<n/>Cannot be used in low mob rarity areas.
+Petals/sacrifice/Description=On death, summons a mob to fight again.<n/>Mob type depends on where the sacrifice happens.<n/>Cannot be used in low mob rarity areas.<n/>Sacrifice your mana orbs in order to survive.
 
 Petals/sawblade/Name=Sawblade
 Petals/sawblade/FullName=Sawblade
@@ -473,7 +472,7 @@ Petals/splitter/Description/default=Fractures your soul into two.<n/><n/><c val=
 Petals/splitter/Description/eternal=Fractures your soul into three.<n/><n/><c val="{#Colors/generic}">Select this petal again to control a different third.</c>
 Petals/splitter/Description/unique={#Petals/splitter/Description/eternal}
 
-Petals/goggles/Name=Goggles
+Petals/goggles/Name=Googles
 Petals/goggles/FullName=Paranormal Goggles
 Petals/goggles/Description=Allows finding some paranormal activity.
 
@@ -482,5 +481,5 @@ Petals/bean/FullName=Bean
 Petals/bean/Description=Deals more damage if there are no allied flowers around you.
 
 Petals/champion_crown/Name=Crown
-Petals/champion_crown/FullName=Champion's Crown
+Petals/champion_crown/FullName=WTT Champion's Crown
 Petals/champion_crown/Description=Gives flowers around you a {#Rarities/super/NameColored} {#Petals/basic/FullName}.<n/>You receive credit for damage dealt using it.
