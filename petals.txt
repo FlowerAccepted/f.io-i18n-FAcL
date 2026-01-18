@@ -82,8 +82,8 @@ Petals/honey/Name=Honey
 Petals/honey/FullName=Honey
 Petals/honey/Description=Mobs love this. Attracts them in a large radius.<n/>Mobs will prioritize this over flowers.<n/>Affected units develop immunity to its effects after some time.
 
-Petals/leaf/Name=Leaf
-Petals/leaf/FullName=Leaf
+Petals/leaf/Name=RisLeaf
+Petals/leaf/FullName=RisLeaf
 Petals/leaf/Description=Gathers energy from the sun to heal your flower passively.
 
 Petals/salt/Name=Salt
@@ -333,8 +333,8 @@ Petals/magic_stinger/Name=Stinger
 Petals/magic_stinger/FullName=Magic Stinger
 Petals/magic_stinger/Description=It really hurts, but it's very fragile.
 
-Petals/magic_leaf/Name=Leaf
-Petals/magic_leaf/FullName=Magic Leaf
+Petals/magic_leaf/Name=RisLeaf
+Petals/magic_leaf/FullName=Magic RisLeaf
 Petals/magic_leaf/Description=Gathers mana from the environment passively.
 
 Petals/magic_cactus/Name=Cactus
@@ -393,8 +393,8 @@ Petals/wax/Name=Wax
 Petals/wax/FullName=Wax
 Petals/wax/Description=Don't ask where it came from.
 
-Petals/golden_leaf/Name=Leaf
-Petals/golden_leaf/FullName=Golden Leaf
+Petals/golden_leaf/Name=RisLeaf
+Petals/golden_leaf/FullName=Golden RisLeaf
 Petals/golden_leaf/Description=A very special leaf, seems to allow you to use your other petals even more.
 
 Petals/cog/Name=Cog
@@ -461,8 +461,8 @@ Petals/lentil/Name=Lentil
 Petals/lentil/FullName=Lentil
 Petals/lentil/Description=Increases petal attraction to enemies.
 
-Petals/dead_leaf/Name=Leaf
-Petals/dead_leaf/FullName=Dead Leaf
+Petals/dead_leaf/Name=RisLeaf
+Petals/dead_leaf/FullName=Dead RisLeaf
 Petals/dead_leaf/Description=Increases petal health but makes them reload slower.
 
 Petals/splitter/Name=Splitter
