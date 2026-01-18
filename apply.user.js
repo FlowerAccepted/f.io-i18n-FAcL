@@ -7,6 +7,8 @@
 // @match        *://*.florr.io/*
 // @grant        none
 // ==/UserScript==
+
+// **Use this on console** | CONSOLE
 const btn = document.createElement('button');
 btn.textContent = 'Click me to Upload';
 btn.style.position = 'fixed';
