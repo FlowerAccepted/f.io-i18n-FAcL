@@ -473,7 +473,7 @@ Petals/splitter/Description/eternal=Fractures your soul into three.<n/><n/><c va
 Petals/splitter/Description/unique={#Petals/splitter/Description/eternal}
 
 Petals/goggles/Name=Googles
-Petals/goggles/FullName=Paranormal Goggles
+Petals/goggles/FullName=Paranormal Googles
 Petals/goggles/Description=Allows finding some paranormal activity.
 
 Petals/bean/Name=Bean
