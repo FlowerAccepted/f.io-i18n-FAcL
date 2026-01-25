@@ -24,7 +24,7 @@ Mobs/ant_soldier/Description=It's got wings and it's ready to use them.
 Mobs/ant_queen/Name=Queen Ant
 Mobs/ant_queen/Description=You must have done something really bad if she's chasing you.
 
-Mobs/ant_hole/Name=Ant Hole
+Mobs/ant_hole/Name=Ant Delve
 Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
 
 Mobs/beetle/Name=Hungry Died Ghost
